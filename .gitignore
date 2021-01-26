@@ -1,6 +1,7 @@
 *
 !.gitignore
 !.env.docker
+!com.zip
 
 !README.md
 !Makefile
